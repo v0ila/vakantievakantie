@@ -71,8 +71,9 @@
     <div class="container">
       <div class="content">
         <h2>Aanbod</h2>
-        <p>Cras augue dolor, blandit eu consectetur at, venenatis at sem. Pellentesque at dui dolor. Morbi molestie lacus in antee in dolor ut justo malesuada
-          ultricies ut et lorem. Nam interdum interdum tempor. Aenean malesuada ipsum vel elit commodo sagittis. Phasellus gravida, ligula vel tempus mattis, nibh lectus aliquam leo, non mollis sem mauris quis velit.</p>
+        <p>Welkom op de website www.vakantiebijhetwater.frl Unieke vakantiehuisjes bij het water! Op Ameland en op het Lauwersmeer (in Oostmahorn).
+Hieronder ziet u welke vakantiehuisjes wij verhuren.
+</p>
       </div>
     </div>
   </section>
