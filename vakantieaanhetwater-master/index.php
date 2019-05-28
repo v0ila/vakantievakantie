@@ -81,7 +81,7 @@ Hieronder ziet u welke vakantiehuisjes wij verhuren.
   <section class="section">
     <div class="container">
       <div class="columns is-mobile is-multiline huts">
-        <div class="column is-6-desktop is-12-touch">
+         <div class="column is-6-desktop is-12-touch">
           <div class="content about">
             <a href="one"><p><span class="about-title heavy">Amelanderkaap</span><br>Op de Amelander kaap in Hollum verhuren wij 2 appartementen. 
 Deze appartementen liggen dichtbij de zee, het bos en de vuurtoren. Het centrum van Hollum ligt op loopafstand. 
@@ -98,7 +98,7 @@ Deze appartementen liggen dichtbij de zee, het bos en de vuurtoren. Het centrum 
             <a href="one"><img src="assets/img/one/Amelanderkaap2.jpg"></a>
           </figure>
         </div>
-        
+       
         <div class="column is-6-desktop is-hidden-desktop">
           <figure class="image is-square">
             <a href="two"><img src="assets/img/two/main.jpg"></a>
